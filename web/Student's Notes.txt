@@ -1,0 +1,3 @@
+Fitur Javascript yang diterapkan pada web ini yaitu dropdown yang saya terapkan pada navbar Wisata.
+
+Cara akses fitur tersebut yaitu dengan mengklik tombol wisata maka akan muncul dropdown, untuk menutupnya tinggal klik diluar "Wisata".
